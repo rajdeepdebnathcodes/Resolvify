@@ -29,7 +29,7 @@ Password: `15201084`
 Promotes a transparent, systematic, and fast grievance redressal mechanism within institutions or workplaces.
 
 ## ❓ How To Run
-[Open in Google Colab](https://colab.research.google.com/github/rajdeepdebnathcodes/Resolvify/blob/main/Resolvify v3(Prime).ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/rajdeepdebnathcodes/Resolvify/blob/main/Resolvify_v3(Prime).ipynb)
 
 ---
 
