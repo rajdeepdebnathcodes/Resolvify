@@ -28,7 +28,10 @@ Password: `15201084`
 ## 💡 Social Relevance
 Promotes a transparent, systematic, and fast grievance redressal mechanism within institutions or workplaces.
 
+## ❓ How To Run
+[Open in Google Colab](https://colab.research.google.com/github/rajdeepdebnathcodes/Resolvify/blob/main/Resolvify v3(Prime).ipynb)
+
 ---
 
 ✅ **Repository Link for Review:**  
-[https://github.com/rajdeepdebnathcodes/Resolvify]
+https://github.com/rajdeepdebnathcodes/Resolvify
